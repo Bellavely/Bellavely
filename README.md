@@ -13,4 +13,4 @@
 
 
 
-![footer](https://capsule-render.vercel.app/api?section=footer&color=timeAuto)
+![footer](https://capsule-render.vercel.app/api?type=Waving&section=footer&color=timeAuto)
