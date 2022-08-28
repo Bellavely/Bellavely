@@ -14,6 +14,6 @@
 
 
 ## :octocat: How to reach me
-<a href="https://www.linkedin.com/in/bella-tamar-vaizburg-5103b9188/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="40" height="40"/> </a> 
+<a href="https://www.linkedin.com/in/bella-tamar-vaizburg-5103b9188/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> 
 
 ![footer](https://capsule-render.vercel.app/api?type=Waving&section=footer&color=timeAuto)
