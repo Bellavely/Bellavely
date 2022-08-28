@@ -11,7 +11,10 @@
 <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://reactnative.dev/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="reactnative" width="40" height="40"/> </a> 
-
+<a  target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Scala-full-color.svg/1200px-Scala-full-color.svg.png" alt="scala" width="40" height="40"/> </a>
+<a  target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="c" width="40" height="40"/> </a>
+<a  target="_blank"> <img src="https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png" alt="c++" width="40" height="40"/> </a>
+<a  target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Scala-full-color.svg/1200px-Scala-full-color.svg.png" alt="scala" width="40" height="40"/> </a>
 
 ## :octocat: How to reach me <a href="https://www.linkedin.com/in/bella-tamar-vaizburg-5103b9188/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> 
 
