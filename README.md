@@ -1,4 +1,4 @@
-  ![header](https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=300&section=footer&text=Bella%20Waizburg&fontSize=90&animation=fadeIn)
+  ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeAuto&height=300&section=footer&text=Bella%20Waizburg&fontSize=90&animation=fadeIn)
 
 ## 📖 About me
 * 💻 Full Stack Developer.
