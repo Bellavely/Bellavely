@@ -1,8 +1,15 @@
-  ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeAuto&height=300&section=footer&text=Bella%20Waizburg&fontSize=90&animation=fadeIn)
+ <h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+ 
+ ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeAuto&height=300&section=footer&text=Bella%20Waizburg&fontSize=90&animation=fadeIn)
 
 ## 📖 About me :cat:
 * 💻 Full Stack Developer.
-* 🎓 3rd. year Computer Science student - Full Stack internship.
+* 🎓 A graduating student in Computer Science - Full Stack internship.
+*  :zap: In my free time, I read tech articles.
+
 
 ## 👨‍💻 Languages and Tools
  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
