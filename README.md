@@ -6,7 +6,7 @@
  ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeAuto&height=300&section=footer&text=Bella%20Waizburg&fontSize=90&animation=fadeIn)
 
 ## 📖 About me :cat:
-* 💻 I am a Full Stack Developer.
+* 💻 Full Stack Developer.
 * 🎓 graduating student in Computer Science - Full Stack internship.
 *  :zap: In my free time, I read tech articles.
 
