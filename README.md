@@ -23,7 +23,7 @@
 <a  target="_blank"> <img src="https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png" alt="c++" width="40" height="40"/> </a>
 <a  target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/1200px-C_Sharp_wordmark.svg.png"  width="40" height="40"/> </a>
 <a  target="_blank"> <img src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg"  width="40" height="40"/> </a>
-<a  target="_blank"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Ftypescript_5968381&psig=AOvVaw2JWX8PgvPRTRaHlb5y-JdT&ust=1670245921097000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOiZhomF4PsCFQAAAAAdAAAAABAI"  width="40" height="40"/> </a>
+<a  target="_blank"> <img src="https://pbs.twimg.com/profile_images/1290672565690695681/0G4bie6b_400x400.jpg"  width="40" height="40"/> </a>
 
 
 ## :octocat: How to reach me <a href="https://www.linkedin.com/in/bella-tamar-vaizburg-5103b9188/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> 
