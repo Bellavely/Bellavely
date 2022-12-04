@@ -6,8 +6,9 @@
  ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeAuto&height=300&section=footer&text=Bella%20Waizburg&fontSize=90&animation=fadeIn)
 
 ## 📖 About me :cat:
-* 💻 Full Stack Developer.
-* 🎓 A graduating student in Computer Science - Full Stack internship.
+*My name is Bella.
+* 💻 I am a Full Stack Developer.
+* 🎓 graduating student in Computer Science - Full Stack internship.
 *  :zap: In my free time, I read tech articles.
 
 
@@ -21,7 +22,7 @@
 <a  target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Scala-full-color.svg/1200px-Scala-full-color.svg.png" alt="scala" width="40" height="40"/> </a>
 <a  target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="c" width="40" height="40"/> </a>
 <a  target="_blank"> <img src="https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png" alt="c++" width="40" height="40"/> </a>
-
+<a  target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/1200px-C_Sharp_wordmark.svg.png" alt="c++" width="40" height="40"/> </a>
 
 ## :octocat: How to reach me <a href="https://www.linkedin.com/in/bella-tamar-vaizburg-5103b9188/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> 
 
