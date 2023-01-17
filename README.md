@@ -22,6 +22,6 @@
 <a  target="_blank"> <img src="https://pbs.twimg.com/profile_images/1290672565690695681/0G4bie6b_400x400.jpg"  width="40" height="40"/> </a>
 
 
-## :octocat: How to reach me <a href="https://www.linkedin.com/in/bella-tamar-vaizburg-5103b9188/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> 
+## :octocat: How to reach me <a href="www.linkedin.com/in/bella-vaizburg" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> 
 
 ![footer](https://capsule-render.vercel.app/api?type=Waving&section=footer&color=timeAuto)
