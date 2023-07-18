@@ -1,10 +1,10 @@
 
- ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeAuto&height=300&section=footer&text=Bella%20Vaizburg&fontSize=90&animation=fadeIn)
-
+<p align="center">
+    <h2 align="center"> Hello 👋, I'm Bella Vaizburg </h2>
+</p>
 ## 📖 About me :cat:
 * 💻 Full Stack Developer.
-* 🎓 graduating student in Computer Science - Full Stack internship.
-*  :zap: In my free time, I read tech articles.
+* 🎓 B.Sc Computer Science Graduate  - Full Stack internship.
 
 
 ## 👨‍💻 Languages and Tools
@@ -23,4 +23,3 @@
 
 ## :octocat: How to reach me <a href="www.linkedin.com/in/bella-vaizburg" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> 
 
-![footer](https://capsule-render.vercel.app/api?type=Waving&section=footer&color=timeAuto)
