@@ -2,11 +2,13 @@
 <p align="center">
     <h2 align="center"> Hello 👋, I'm Bella Vaizburg </h2>
 </p>
-<p>
+
+
 ## 📖 About me :cat:
-* 💻 Full Stack Developer.
-* 🎓 B.Sc Computer Science Graduate  - Full Stack internship.
-</p>
+<ul>
+  <li>💻 Full Stack Developer.</li>
+  <li>🎓 B.Sc Computer Science Graduate  - Full Stack internship.</li>
+</ul>
 
 
 ## 👨‍💻 Languages and Tools
