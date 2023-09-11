@@ -1,13 +1,20 @@
 
-<p align="center">
-    <h2 align="center"> Hello 👋, I'm Bella Vaizburg </h2>
-</p>
+<div align="center">
+    <h2 align="center"> Hello 👋, I'm Bella Vayzburg </h2>
+</div>
 
+<div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 ## 📖 About me :cat:
 <ul>
-  <li>💻 Full Stack Developer.</li>
-  <li>🎓 B.Sc Computer Science Graduate  - Full Stack internship.</li>
+<li>💻 Looking for an open source project to contribute to 👀👀 </li>
+<li>🎓 B.Sc Computer Science Graduate  - Full Stack internship.</li>
+<li> 🌱 I’m currently learning Web Development and other programming languages </li>
+<li>⚡ Fun fact : I was born in Uzbekistan  💜❤</li>
 </ul>
 
 
