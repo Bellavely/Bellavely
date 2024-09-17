@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-![hippo](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExamdhNDJpcGs0ajQ3ZmxoN2lzbDUwMmE0djdncXN0YXQ1MG1jcXgxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNqEFrYVnsS52/giphy.gif)
+<img src= "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExamdhNDJpcGs0ajQ3ZmxoN2lzbDUwMmE0djdncXN0YXQ1MG1jcXgxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNqEFrYVnsS52/giphy.gif"/>
 </div>
 
 ## 📖 About me :cat:
