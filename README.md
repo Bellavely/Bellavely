@@ -4,9 +4,7 @@
 </div>
 
 <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+<iframe src="https://giphy.com/embed/mcsPU3SkKrYDdW3aAU" width="480" height="480" style="" frameBorder="0"         class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-computer-mcsPU3SkKrYDdW3aAU">via GIPHY</a></p>
 </div>
 
 ## 📖 About me :cat:
@@ -32,5 +30,6 @@
 <a  target="_blank"> <img src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg"  width="40" height="40"/> </a>
 
 
-## :octocat: How to reach me <a href="www.linkedin.com/in/bella-vayzburg" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> 
+## :octocat: How to reach me :
+  <a href = "mailto:bellavaisborg@gmail.com"><img alt="Link para e-mail" title="Link para e-mail" height="30" width="140" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
